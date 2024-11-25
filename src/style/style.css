@@ -1,0 +1,21 @@
+textarea{
+    width: 534px;
+    height: 164px;
+    font-size: 18px;
+    resize: none;
+    padding: 10px;
+}
+textarea:focus {
+    outline: none;
+}
+.translated{
+    background-color: hsl(0, 0%, 90%);
+    border-radius: 8px;
+    border: none;
+}
+.will-translate {
+    border: 1px solid lightgray;
+    border-radius: 8px;
+}
+
+

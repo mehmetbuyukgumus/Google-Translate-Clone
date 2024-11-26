@@ -36,7 +36,7 @@ You will be able to access your application at:
 - **Install Dependencies:**\
 Before starting the project, install necessary dependencies:
   ```bash
-  npm install
+  npm run dev
   ```
 - **Start Application:**\
 Run the React application in development mode:
